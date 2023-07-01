@@ -3,7 +3,7 @@
 
 - I am interested in embedded systems, software engineering, Neuroanatomy, and machine learning.
 
-- 📫 How to reach me **suhilamahmoud@gmail.com**
+- 📫 You can reach me through E-mail at **suhilamahmoud@gmail.com**
 
 - ⚡ Fun fact **I am a cinephile person.**
 
