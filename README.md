@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sohaila Mahmoud</h1>
 <h3 align="center">A senior Biomedical Engineering Student at Cairo University.</h3>
 
-- I am interested in embedded systems, software engineering, Neuroscience, and machine learning.
+- I am interested in computer vision, embedded systems, software engineering, Neuroscience, and machine learning.
 
 - 📫 You can reach me through E-mail at **suhilamahmoud@gmail.com**
 
