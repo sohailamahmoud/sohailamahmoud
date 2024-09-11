@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sohaila Mahmoud</h1>
-<h3 align="center">A senior Biomedical Engineering Student at Cairo University.</h3>
+<h3 align="center">A Recent Graduate from the Biomedical Engineering Department at Cairo University.</h3>
 
 - I am interested in computer vision, embedded systems, software engineering, and AI.
 
